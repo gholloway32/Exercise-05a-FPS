@@ -1,4 +1,3 @@
-```
 # Exercise-05a-FPS
 
 Exercise for MSCH-C220
